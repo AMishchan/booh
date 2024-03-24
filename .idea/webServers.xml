@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2f4032ab-26e3-4fcc-a650-91fdaafeb236" name="RemoteAlpen">
+        <fileTransfer accessType="SFTP" host="212.232.28.23" port="22" sshConfigId="41164277-4212-4fd6-be79-31bf62617351" sshConfig="zayander@212.232.28.23:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
